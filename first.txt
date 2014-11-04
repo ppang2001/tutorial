@@ -1,1 +1,1 @@
-This is a new changed git file. This is the first commit.
+Brand new text.
